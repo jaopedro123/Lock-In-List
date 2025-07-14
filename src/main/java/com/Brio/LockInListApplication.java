@@ -8,6 +8,8 @@ public class LockInListApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LockInListApplication.class, args);
+		
+		//test
 	}
 
 }
